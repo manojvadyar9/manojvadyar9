@@ -21,7 +21,6 @@ I have experience developing multiplayer, 2D, and 3D games using Unity 6 and C#.
 - 3D Game Development
 - Multiplayer Game Development
 - UI Design & Implementation
-- Gameplay Programming
 - Combat Systems
 - Enemy AI
 - Player Controllers
@@ -64,7 +63,6 @@ I have experience developing multiplayer, 2D, and 3D games using Unity 6 and C#.
   - Enemy AI systems
   - Collision detection
   - Player movement
-  - Core gameplay programming
 
 ---
 
@@ -108,8 +106,7 @@ I have experience developing multiplayer, 2D, and 3D games using Unity 6 and C#.
 - Unity Game Development Projects
 - Multiplayer Games
 - Indie Game Development
-- Gameplay Programming
-- Game UI/UX Design
+- Game UI Design
 - 2D & 3D Game Projects
 
 ---
