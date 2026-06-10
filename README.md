@@ -69,7 +69,7 @@ I have experience developing multiplayer, 2D, and 3D games using Unity 6 and C#.
 ## 📚 Education
 
 ### 🎓 Image Creative Education
-**Game Art & Design**  
+**Game Design & Development**  
 2024 – 2026
 
 ### 🎓 Jawaharlal Nehru Technological University Anantapur
