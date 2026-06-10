@@ -1,14 +1,14 @@
 <h3 align="left">Hi there, I'm Vadyar Manoj! 👋</h3>
 
 <p align="left">
-I'm a passionate Game Developer and Game Art & Design student with experience in developing 2D and 3D games using Unity and C#. I enjoy creating engaging gameplay systems, designing game, and building interactive gaming experiences.
+I'm a passionate Game Developer and Game Design & Development student with experience in developing 2D and 3D games using Unity and C#. I enjoy creating engaging gameplay systems, designing game, and building interactive gaming experiences.
 </p>
 
 ---
 
 ## 🎮 About Me
 
-I am currently pursuing Game Art & Design at Image Creative Education and hold a B.Tech in Computer Science Engineering from Jawaharlal Nehru Technological University Anantapur.
+I am currently pursuing Game Design & Development at Image Creative Education and hold a B.Tech in Computer Science Engineering from Jawaharlal Nehru Technological University Anantapur.
 
 I have experience developing multiplayer, 2D, and 3D games using Unity 6 and C#. My projects include combat systems, player movement, AI behaviors, UI systems, animation integration, and Photon Networking. I am passionate about game development, problem-solving, and continuously learning new technologies in the gaming industry.
 
