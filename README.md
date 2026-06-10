@@ -1,7 +1,7 @@
 <h3 align="left">Hi there, I'm Vadyar Manoj! 👋</h3>
 
 <p align="left">
-I'm a passionate Game Developer and Game Art & Design student with experience in developing 2D and 3D games using Unity and C#. I enjoy creating engaging gameplay systems, designing game mechanics, and building interactive gaming experiences.
+I'm a passionate Game Developer and Game Art & Design student with experience in developing 2D and 3D games using Unity and C#. I enjoy creating engaging gameplay systems, designing game, and building interactive gaming experiences.
 </p>
 
 ---
