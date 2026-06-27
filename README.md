@@ -117,7 +117,7 @@ I have experience developing multiplayer, 2D, and 3D games using Unity 6 and C#.
 - 🎨 ArtStation: [Artstation Profile](https://www.artstation.com/myartstation/projects)
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/feed/)
 - 🎭 Behance: [Behance Profile](https://www.behance.net/manojmanu90)
-- 🌐 Portfolio: [itch.io](https://itch.io/dashboard)
+- 🌐 Portfolio: [itch.io](https://manojvadyar9.itch.io/)
 
 ---
 
